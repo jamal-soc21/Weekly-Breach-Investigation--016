@@ -1,5 +1,5 @@
 # Weekly-Breach-Investigation--016
-![Uploading unnamed.png…]()
+<img width="1254" height="1254" alt="unnamed" src="https://github.com/user-attachments/assets/e78b7b2a-2003-45d6-9534-786b8f906292" />
 
 ## Weekly Breach Investigation
 Breach: Adform — JavaScript Supply‑Chain Attack
